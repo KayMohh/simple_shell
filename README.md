@@ -5,7 +5,7 @@
 
 ****
 ## Table of contents
- - **Whaat is the shell?**
+ - **What is the shell?**
  - **About this project**
  - **Essential Functionalities of the Simple Shell**
  - **File description**
@@ -152,6 +152,7 @@ ubunto@ubuntu:~/Bureau/simple_shell$
 ````
 ## Bugs
 No known Bugs.
+The Project is all intact
 
 ## TEAM
 
