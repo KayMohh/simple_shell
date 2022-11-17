@@ -5,7 +5,7 @@
 
 ****
 ## Table of contents
- - **What is the shell?**
+ - **Whaat is the shell?**
  - **About this project**
  - **Essential Functionalities of the Simple Shell**
  - **File description**
